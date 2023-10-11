@@ -8,4 +8,6 @@ Datasette code available at: https://github.com/AlexMartinelle/Pi1541DatassetteS
 This PCB is designed to be used with the Pi1541 Option B settings but with one extra tweak,
 the i2cBusMaster setting should be zero since it uses pin 27 for SDA, and pin 28 for SCL.
 
+The gerbers are also available from PCBWay at https://www.pcbway.com/project/shareproject/Pi1541_option_B_hat_for_Raspberry_Pi_Zero_with_datassette_IO_support_94f0028b.html
+
 The design is loosely based on the https://github.com/hackup/Pi1541io PCB and the components used on that PCB.
